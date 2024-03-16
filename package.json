@@ -1,0 +1,26 @@
+{
+  "name": "masa_old90",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stryjasuchet2/masa_old90.git"
+  },
+  "dependencies": {
+    "Hdolger_opera-": "1.0.0",
+    "operad_polin": "1.0.0",
+    "point_paoe": "1.0.0",
+    "Zealy_oper": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stryjasuchet2/masa_old90/issues"
+  },
+  "homepage": "https://github.com/stryjasuchet2/masa_old90#readme"
+}
